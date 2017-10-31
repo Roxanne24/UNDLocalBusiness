@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShareTea</string>
+    <string name="business_name_header">ShareTea</string>
+    <string name="category_hours_of_operation_title">Hours of operation</string>
+    <string name="category_address_title">Address</string>
+    <string name="category_contact_title">Contact</string>
+    <string name="category_follow_title">Follow us</string>
+    <string name="phone_number">(289) 597"-"8886</string>
+    <string name="address">370 Hwy 7 #101, Richmond Hill, ON L4B 1A7</string>
+    <string name="facebook_messenger_id">richmondhillsharetea</string>
+    <string name="days_part_one">Mon to Thu + Sun</string>
+    <string name="days_part_two">Fri and Sat</string>
+    <string name="timings_part_one">12 "-" 11:00 pm</string>
+    <string name="timings_part_two">12:00 pm "-" 12:00 am</string>
+</resources>
