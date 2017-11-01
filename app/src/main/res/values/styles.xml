@@ -21,17 +21,17 @@
     </style>
 
     <style name="category_title_text">
-        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:fontFamily">sans-serif-medium</item>
-        <item name="android:padding">16dp</item>
+        <item name="android:paddingBottom">8dp</item>
         <item name="android:textColor">@color/primaryTextColor</item>
         <item name="android:textSize">16sp</item>
     </style>
 
     <style name="business_image_header">
         <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">200dp</item>
+        <item name="android:layout_height">match_parent</item>
         <item name="android:scaleType">centerCrop</item>
     </style>
 
