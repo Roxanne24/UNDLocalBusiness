@@ -7,7 +7,7 @@
 - TextView
 
 ### UX
-<img src="https://user-images.githubusercontent.com/32653955/32203269-7e1527e0-bdb8-11e7-9025-eb5a5fec11e2.png" width="275" height="475">
+<img src="https://user-images.githubusercontent.com/32653955/32256783-9440e71e-be87-11e7-9115-9822b80c01a7.png" width="275" height="475">
 
 ## PROJECT LICENSE
 ```
