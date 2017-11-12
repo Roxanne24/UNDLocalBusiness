@@ -1,4 +1,12 @@
-# Single screen info page 
+# UNDLocalBusiness - Single screen info page 
+
+Project as a part of nano-degree at [Udacity](https://www.udacity.com/).
+
+### Project rubic
+
+Design and implement a single screen app that displays information about a fictional small business. Think along the lines of your favorite coffeeshop, local restaurant, or that gem of a store that sells those rare comic books or records.
+
+#### Helper :smiley:
 
 - Nested LinearLayout
 - Relative Layout
@@ -6,7 +14,7 @@
 - ImageView
 - TextView
 
-### UX
+### UX Design
 <img src="https://user-images.githubusercontent.com/32653955/32256783-9440e71e-be87-11e7-9115-9822b80c01a7.png" width="275" height="475">
 
 ## PROJECT LICENSE
